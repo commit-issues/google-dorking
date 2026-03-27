@@ -1,0 +1,25 @@
+```
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# VSCode
+.vscode/
+
+# Environment
+.env
+*.env
+
+# Logs
+*.log
+
+# Python (just in case)
+__pycache__/
+*.pyc
+
+# Secrets (never)
+*.pem
+*.key
+*.p12
